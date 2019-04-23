@@ -1,0 +1,15 @@
+{
+  "name": "strategy-pattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Avi Waserman <waserman2302@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "puppeteer": "^1.14.0"
+  }
+}
